@@ -182,4 +182,4 @@ MIT — free to use, modify, and distribute with attribution.
 
 ---
 
-> Built by [José Antonio Moreno Gómez](https://linkedin.com/in/YOUR_PROFILE) · Biomedical Engineering · Universidad de Málaga
+> Built by [José Antonio Moreno Gómez](https://www.linkedin.com/in/josemorenogomez/) · Biomedical Engineering · Universidad de Málaga
